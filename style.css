@@ -145,7 +145,7 @@ html{
 
 .song-info i{
     font-size: 2rem;
-    background: linear-gradient(to right, #3baa7b, #62bc68);
+    background: linear-gradient(to right, #f52f2f, #bc6262);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -167,7 +167,7 @@ html{
     left: 0;
     width: 0;
     height: 100%;
-    background: linear-gradient(to right, #3baa7b, #62bc68);
+    background: linear-gradient(to right, #df3535, #ac4440);
     border-radius: 0.5rem;
 }
 
@@ -193,7 +193,7 @@ html{
 .play-pause{
     width: 5rem;
     height: 5rem;
-    background: linear-gradient(to right, #3baa7b, #62bc68);
+    background: linear-gradient(to right, #ce3f3a, #a04545);
     color: #fff;
     box-shadow: .5rem .5rem 2rem -.1rem rgba(0, 0, 0, 0.8), -0.8rem -0.8rem 2rem -0.1rem rgba(255, 255, 255, 0.4);
 
