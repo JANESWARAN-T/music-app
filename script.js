@@ -1,14 +1,19 @@
 // Adding the required songs through JSON format
 const songData = [
     {
-        name: "Nenjae Ezhu",
-        artist: "AR Rahman",
-        src: "Nenjae Ezhu"
+        name: "Attention",
+        artist: "Charlie Putt",
+        src: "Attention"
     },
     {
-        name: "Innum Konjam",
-        artist: "AR Rahman",
-        src: "Innum Konjam"
+        name: "Baby (ft Ludacris)",
+        artist: "Justin Bieber",
+        src: "Baby (ft Ludacris)"
+    },
+    {
+        name: "Girls Like You (ft. Cardi B)",
+        artist: "Maroon 5",
+        src: "Girls Like You (ft. Cardi B)"
     }
 ]
 
